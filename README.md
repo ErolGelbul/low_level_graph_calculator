@@ -78,7 +78,6 @@ Next, install Java. Specifically, this command will install the Java Runtime Env
   2. Run the installer.
 
 - macOS
-
 People on the Stackoverflow cautioned not to install 8 until 7 is installed. So we are going to install JDK 7 first.
 
 Unlike other version managers such as NVM, jEnv itself doesn’t install JDKs. You have to do it yourself. Luckily, Homebrew Cask made this task really easy.
@@ -127,8 +126,6 @@ If you were able to get your hands on CocoIDE:
 6. Drag the slider towards `Step` to analyse each execution, memory and the registers.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 
 
