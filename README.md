@@ -149,7 +149,7 @@ If you would like to add any extra features to the Logisim simulation, feel free
 <!-- CONTACT -->
 ## Contact
 
-Erol Gelbul - [Website](erolgelbul.com) - erolgelbul@gmail.com
+Erol Gelbul - [Website](https://erolgelbul.com) - erolgelbul@gmail.com
 
 Project Link: [Graphing Calculator](https://github.com/ErolGelbul/low_level_graph_calculator)
 
